@@ -36,3 +36,7 @@ Frete via Motoboy: R$20.0
 O padrão Strategy permite definir uma família de algoritmos, encapsulá-los e torná-los intercambiáveis.  
 Neste exemplo, o cálculo de frete pode variar sem alterar a lógica da classe `Pedido`.
 
+  ***DIAGRAMA DE CLASSES***
+  <img width="714" height="555" alt="strategy" src="https://github.com/user-attachments/assets/f9d11c8c-e717-425d-b8d1-391a794eee43" />
+
+
